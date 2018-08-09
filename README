@@ -1,3 +1,2 @@
 These codes are written in python3, and dependent on numpy, scipy, matplotlib.
-Change to each directory and run codes by "bash exec.sh". Simulated results and figures will be saved in the same directory.
-Mutual informations in Fig.3 and Fig.5 are saved in "MI.csv" in each directory. We manually collected and plotted those values after performing simulations several times.
+Change to each directory and run codes by "bash exec.sh" or "bash batch.sh".
